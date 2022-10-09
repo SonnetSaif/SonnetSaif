@@ -19,9 +19,11 @@
   <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/researchgate.svg" width="4%" height="90%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- -Looking for a Ph.D. position in Computer Vision. -->
+
 
 <h2> About Me </h2>
+
+<!-- -Looking for a Ph.D. position in Computer Vision. -->
 
 ````diff
 -Looking for Research opportunities in Computer Vision
@@ -29,5 +31,5 @@
 
 <p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at Spectrum E&C Ltd.</p>
 
-<p align="justify"> I have graduated in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2020. My research interest lies in the general area of Machine Learning, particularly in Deep Learning, Natural Language Processing and Computer Vision. </p>
+<p align="justify"> I have graduated in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Natural Language Processing and Computer Vision. </p>
 
