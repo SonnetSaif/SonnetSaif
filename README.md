@@ -15,5 +15,5 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:islam.saiful03@outlook.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:islam.saiful03@outlook.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-8782-0279"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/ORCID_logo.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-8782-0279"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/ORCID_logo.svg" width="4%" height="20%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
