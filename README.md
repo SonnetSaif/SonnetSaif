@@ -19,13 +19,13 @@
   <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/researchgate.svg" width="4%" height="90%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h2> About Me </h2>
 <!-- -Looking for a Ph.D. position in Computer Vision. -->
+<h2> About Me </h2>
 ````diff
 -Looking for Research opportunities in Computer Vision
 ````
 
-<p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd.](https://spectrum-bd.com/)</p>
+<p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at (Spectrum E&C Ltd.)[https://spectrum-bd.com]</p>
 
 <p align="justify"> I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision. </p>
 
