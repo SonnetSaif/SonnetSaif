@@ -11,11 +11,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/saiful-islam03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="www.youtube.com/c/SifatAhmed144"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="4%" height="4%"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.sifat-ahmed.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/451757508353327105"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="SonnetSaif#0415"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:sifat.austech@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
