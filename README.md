@@ -7,7 +7,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/Islam.Saiful03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width="4%" height="4%"/></a>
+  <a href="https://www.facebook.com/Islam.Saiful03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width="4%"                    height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href="https://www.linkedin.com/in/saiful-islam03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
