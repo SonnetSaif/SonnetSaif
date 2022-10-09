@@ -13,7 +13,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="SonnetSaif#0415"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:sifat.austech@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:islam.saiful03@outlook.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="http://www.w3.org/2000/svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
