@@ -22,7 +22,8 @@
 <h2> About Me </h2>
 
 ````diff
--Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.
+-Looking for a Ph.D. position in Computer Vision.
+-Looking for Research opportunities in Computer Vision
 ````
 
 <p align="justify"> I am currently working as a Robotics & Deep Learning Engineer at EII, Inc. Previously worked as a Data Scientist at Hiperdyne Corporation, Japan. </p>
