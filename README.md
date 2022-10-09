@@ -7,9 +7,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://facebook.com/sifat.ahm3d"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width="4%" height="4%"/></a>
+  <a href="https://www.facebook.com/Islam.Saiful03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/sifat-ahmed"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+  <a href="https://www.linkedin.com/in/saiful-islam03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="www.youtube.com/c/SifatAhmed144"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
