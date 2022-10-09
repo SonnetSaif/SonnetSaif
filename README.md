@@ -27,7 +27,7 @@
 -Looking for Research opportunities in Computer Vision
 ````
 
-<p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd.](https://spectrum-bd.com)</p>
+<p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at [Attention is all you need](https://arxiv.org/abs/1706.03762)</p>
 
 <p align="justify"> I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision. </p>
 
