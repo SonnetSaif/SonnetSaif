@@ -21,7 +21,10 @@
 
 <h2> About Me </h2>
 
+**`-Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.`**
+
+<h2> About Me </h2>
+
 ````diff
 -Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.
 ````
-**`-Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.`**
