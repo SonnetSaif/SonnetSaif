@@ -8,10 +8,9 @@
 <!-- Social icons section -->
 <p align="center">
   
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=read-the-docs&logoColor=white)](https://www.overleaf.com/download/project/5ffc7c0731e14e09d8bfbff2/build/183c35f3dc1-c27c30f05b85e3b2/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-f-f935&popupDownload=true)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=read-the-docs&logoColor=white)](https://www.overleaf.com/project/5ffc7c0731e14e09d8bfbff2)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
 </p>
 
 
