@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=console&size=24&duration=3000&pause=500&color=15F797&center=true&vCenter=true&width=1000&height=30&lines=Software+Engineer+(Web+%26+Machine+Learning).;Research+Enthusiast.;)]()
 
+<br/>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -90,14 +92,13 @@
 
 
 
-<p align="center">
-  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
- </p>
+
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 
 
