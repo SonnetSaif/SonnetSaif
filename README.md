@@ -7,6 +7,7 @@
 
 <!-- Social icons section -->
 <p align="center">
+  
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
@@ -16,16 +17,7 @@
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
-<!--   <a href="https://www.facebook.com/Islam.Saiful03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" width="4%" height="4%"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/saiful-islam03/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:islam.saiful03@outlook.com"><img src="https://github.com/detain/svg-logos/blob/master/svg/outlook-1.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="skype:sonettu?call"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-8782-0279"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/orcid.svg" width="4%" height="90%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/researchgate.svg" width="4%" height="90%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287; -->
+
 </p>
 
 
