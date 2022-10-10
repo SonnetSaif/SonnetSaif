@@ -8,7 +8,7 @@
 <!-- Social icons section -->
 <p align="center">
 
-[![gmail](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=hotmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
+[![gmail](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=outlook&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saiful-Islam-164)
 </p>
