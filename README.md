@@ -12,8 +12,8 @@
   <a href="mailto:islam.saiful03@outlook.com"><img width="80px" alt="Microsoft Outlook" title="Microsoft Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saiful-islam03/"><img width="80px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img width="110px" alt="ResearchGate" title="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0001-8782-0279"><img width="80px" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/Orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
-  <a href="https://www.facebook.com/Islam.Saiful03"><img width="80px" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0001-8782-0279"><img width="60px" alt="Orcid" title="Orcid" src="https://img.shields.io/badge/Orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://www.facebook.com/Islam.Saiful03"><img width="80px" alt="Facebbok" title="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 </p>
 
 
