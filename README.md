@@ -9,10 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  
   <a href="https://www.youtube.com/c/DevProTips"><img width="80px" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
 </p>
 
 
