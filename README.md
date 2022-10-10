@@ -19,10 +19,6 @@
   <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/researchgate.svg" width="4%" height="90%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-
-
 
 <h2> About Me </h2>
 
