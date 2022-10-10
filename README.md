@@ -9,11 +9,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:islam.saiful03@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saiful-Islam-164)
-  [![Orcid](https://img.shields.io/badge/Orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8782-0279)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Islam.Saiful03/)
+  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:islam.saiful03@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saiful-Islam-164)
+[![Orcid](https://img.shields.io/badge/Orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8782-0279)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Islam.Saiful03/)
+  
 </p>
 
 
