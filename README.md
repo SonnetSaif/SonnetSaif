@@ -13,7 +13,6 @@
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saiful-Islam-164)
   [![Orcid](https://img.shields.io/badge/Orcid-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8782-0279)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Islam.Saiful03/)
-  
 </p>
 
 
