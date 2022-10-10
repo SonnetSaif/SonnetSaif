@@ -9,8 +9,9 @@
 <p align="center">
   
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=read-the-docs&logoColor=white)](https://www.overleaf.com/project/5ffc7c0731e14e09d8bfbff2)
-[![linked-in](https://img.shields.io/badge/Linked_In-#0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam03/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
+[![ResearchGate](https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Research%2520Gate)](https://www.researchgate.net/profile/Saiful-Islam-164)
 </p>
 
 
