@@ -28,7 +28,7 @@
 
 <p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at Spectrum E&C Ltd.</p>
 
-<p align="justify"> I have graduated in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, Reinforcement Learning and Natural Language Processing. </p>
+<p align="justify"> I have graduated in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, and Reinforcement Learning. </p>
 
 
 # 💻 Tech Stack:
