@@ -87,7 +87,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="49.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=true&theme=vue-dark" width="49.5%"/>
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=radical&hide_border=false)<br/>
