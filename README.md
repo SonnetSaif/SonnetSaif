@@ -94,9 +94,9 @@ ___
 
 ___
 <a href="https://github.com/SonnetSaif/leetcode-solve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" width="49.5%" height="10.0%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" width="49.5%" height="15.0%"/>
 </a> <a href="https://github.com/SonnetSaif/U-Net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" width="49.5%" height="10.0%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" width="49.5%" height="15.0%"/>
 </a>
 
 </a> <a href="https://github.com/SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM">
