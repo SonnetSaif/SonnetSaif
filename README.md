@@ -95,6 +95,12 @@ ___
 ___
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SonnetSaif/leetcode-solve) -->
 
+<a href="https://github.com/SonnetSaif/leetcode-solve">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" width="49.5%"/>
+</a> <a href="https://github.com/SonnetSaif/U-Net">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" width="49.5%"/>
+</a>
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" alt="https://github.com/SonnetSaif/leetcode-solve" width="49.5%"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" alt="https://github.com/SonnetSaif/U-Net" width="49.5%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" alt="https://github.com/SonnetSaif/leetcode-solve" width="49.5%"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" alt="https://github.com/SonnetSaif/U-Net" width="49.5%"/>
