@@ -92,4 +92,5 @@ ___
 <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/>
 
 ___
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SonnetSaif/leetcode-solve)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SonnetSaif/leetcode-solve) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark)](https://github.com/SonnetSaif/leetcode-solve)
