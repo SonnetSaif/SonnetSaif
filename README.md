@@ -86,18 +86,21 @@
 
 
 <!-- # 📊 GitHub Stats: -->
-___
-<img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=vue-dark&hide_border=false" width="49.5%" height="10.0%"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/>
+___
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=vue-dark&hide_border=false" width="49.5%" height="10.0%"/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
 
 ___
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SonnetSaif/leetcode-solve) -->
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" alt="https://github.com/SonnetSaif/leetcode-solve" width="49.5%"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" alt="https://github.com/SonnetSaif/U-Net" width="49.5%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" alt="https://github.com/SonnetSaif/leetcode-solve" width="49.5%"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark" alt="https://github.com/SonnetSaif/U-Net" width="49.5%"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark)](https://github.com/SonnetSaif/leetcode-solve)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark)](https://github.com/SonnetSaif/leetcode-solve)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=U-Net&theme=vue-dark)](https://github.com/SonnetSaif/U-Net)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=Stock-Prediction-Forecasting-Stacked-LSTM&theme=vue-dark)](https://github.com/SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=SalaryPrediction_WebApp-using-MachineLearning&theme=vue-dark)](https://github.com/SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=SalaryPrediction_WebApp-using-MachineLearning&theme=vue-dark)](https://github.com/SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning) -->
