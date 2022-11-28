@@ -100,10 +100,10 @@ ___
 </a>
 
 </a> <a href="https://github.com/SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=Stock-Prediction-Forecasting-Stacked-LSTM&theme=vue-dark" width="49.5%" height="10.0%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=Stock-Prediction-Forecasting-Stacked-LSTM&theme=vue-dark" width="49.5%" height="15.0%"/>
 </a>
 </a> <a href="https://github.com/SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=SalaryPrediction_WebApp-using-MachineLearning&theme=vue-dark" width="49.5%" height="10.0%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=SalaryPrediction_WebApp-using-MachineLearning&theme=vue-dark" width="49.5%" height="15.0%"/>
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark)](https://github.com/SonnetSaif/leetcode-solve)
