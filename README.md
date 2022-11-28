@@ -92,6 +92,8 @@ ___
 
 <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/>
 
+![Profile views](https://gpvc.arturio.dev/SonnetSaif)  
+
 ___
 <!-- <a href="https://github.com/SonnetSaif/leetcode-solve">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonnetSaif&repo=leetcode-solve&theme=vue-dark" width="49.5%"/>
