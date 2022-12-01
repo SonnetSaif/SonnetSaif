@@ -17,15 +17,6 @@
   <a href="https://www.facebook.com/Islam.Saiful03"><img width="105px" alt="Facebbok" title="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-
-<a href="https://twitter.com/amirpourmand76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirpourmand76" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/amir-pourmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-pourmand" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/4201765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4201765" height="50" width="50" /></a>
-<a href="https://kaggle.com/amirpourmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amirpourmand" height="30" width="40" /></a>
-<a href="/https://amirpourmand.ir/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amirpourmand.ir/feed.xml" height="50" width="50" /></a>
-
-
-
 <h2> About Me </h2>
 
 <!-- -Looking for a Ph.D. position in Computer Vision. -->
