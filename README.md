@@ -30,7 +30,7 @@ I am currently working as a Software Engineer (Machine Learning & Web) at [Spect
 
 📫 You can visit my homepage on [sonnetsaif.github](https://sonnetsaif.github.io/)
 
-I have graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](aust.edu/) in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, and Reinforcement Learning.
+I have graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](https://aust.edu/) in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, and Reinforcement Learning.
 
 
 # 💻 Tech Stack:
