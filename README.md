@@ -26,9 +26,9 @@
 -Looking for Research opportunities in Computer Vision
 ````
 
-<p align="justify"> I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd](https://www.spectrum-bd.com/).</p>
+I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd](https://www.spectrum-bd.com/).
 
-📫 You can visit my homepage on [sonnetsaif.github](https://sonnetsaif.github.io/).
+📫 You can visit my homepage on [sonnetsaif.github](https://sonnetsaif.github.io/)
 
 <p align="justify"> I have graduated in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, and Reinforcement Learning. </p>
 
