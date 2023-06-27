@@ -91,7 +91,7 @@ I have graduated in Computer Science & Engineering from [Ahsanullah University o
 ___
 <img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=vue-dark&hide_border=false" width="49.5%" height="10.0%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
 
