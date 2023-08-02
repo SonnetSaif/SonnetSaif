@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Saiful Islam's github!
+  Welcome to Saiful Islam's GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h2>
 
@@ -25,7 +25,8 @@
 -Looking for Research opportunities in Computer Vision
 ````
 
-I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd](https://www.spectrum-bd.com/).
+I am currently working as a Software Engineer (R&D) at [Sincos ATL](http://sel-gatl.com/).
+<!-- I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd](https://www.spectrum-bd.com/). -->
 
 📫 You can visit my homepage on [sonnetsaif.github](https://sonnetsaif.github.io/)
 
