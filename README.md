@@ -30,7 +30,7 @@ I am currently working as a Software Engineer (R&D) at [Sincos ATL](http://sel-g
 
 📫 You can visit my homepage on [sonnetsaif.github](https://sonnetsaif.github.io/)
 
-I graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](https://aust.edu/) in 2020. My research interest lies in the Machine Learning, particularly in Deep Learning, Computer Vision, and Reinforcement Learning.
+I graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](https://aust.edu/) in 2020. My research interest lies in Artificial Intelligence, particularly in Deep Learning, Computer Vision, and Natural Language Processing.
 
 
 # 💻 Tech Stack:
