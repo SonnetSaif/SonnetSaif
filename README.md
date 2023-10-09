@@ -58,9 +58,8 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=plastic&logo=Kaggle&logoColor=white)
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif"/>
 <!-- ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23EE4C2C.svg?style=plastic&logo=HuggingFace&logoColor=white) -->
-
-
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=white)
 
@@ -105,7 +104,7 @@ ___
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sonnetsaif) -->
 
