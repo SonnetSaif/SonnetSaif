@@ -57,8 +57,8 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-%23EE4C2C.svg?style=plastic&logo=Kaggle&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23EE4C2C.svg?style=plastic&logo=HuggingFace&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%20BEFF.svg?style=plastic&logo=Kaggle&logoColor=white)
+<!-- ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23EE4C2C.svg?style=plastic&logo=HuggingFace&logoColor=white) -->
 
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
