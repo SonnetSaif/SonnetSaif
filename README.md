@@ -94,8 +94,6 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif"/>
-
 <!-- # 📊 GitHub Stats: -->
 
 ___
