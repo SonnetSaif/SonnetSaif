@@ -99,7 +99,7 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=vue-dark&hide_border=false" width="49.5%" height="10.0%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif"/>
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sonnetsaif/competition)
