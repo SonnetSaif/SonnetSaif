@@ -57,6 +57,10 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%23EE4C2C.svg?style=plastic&logo=Kaggle&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23EE4C2C.svg?style=plastic&logo=HuggingFace&logoColor=white)
+
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=white)
 
@@ -80,14 +84,14 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ### Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 ### Other
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 <!-- # 📊 GitHub Stats: -->
 
