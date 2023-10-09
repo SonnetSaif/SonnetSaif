@@ -105,7 +105,7 @@ ___
 
 
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sonnetsaif) -->
 
