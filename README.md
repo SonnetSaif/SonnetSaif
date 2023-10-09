@@ -89,7 +89,7 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 
 ### Other
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
