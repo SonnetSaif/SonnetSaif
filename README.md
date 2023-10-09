@@ -100,7 +100,8 @@ ___
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
-![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif)
+
+![sonnetsaif](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif)
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
 
