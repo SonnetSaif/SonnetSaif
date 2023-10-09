@@ -93,21 +93,17 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif"/>
+
 <!-- # 📊 GitHub Stats: -->
 
 ___
 <img src="https://github-readme-stats.vercel.app/api?username=SonnetSaif&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonnetSaif&theme=vue-dark&hide_border=false" width="49.5%" height="10.0%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnetSaif&langs_count=5&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true"/>
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif"/>
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sonnetsaif/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sonnetsaif/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sonnetsaif/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sonnetsaif/discussion)
-
-![sonnetsaif](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sonnetsaif)
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=SonnetSaif&theme=vue" width="100%"/> -->
 
