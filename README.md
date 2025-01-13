@@ -17,11 +17,6 @@
   <a href="https://www.facebook.com/Islam.Saiful03"><img width="105px" alt="Facebbok" title="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-### 📄 My Documents
-
-- [Resume](./Saiful_Islam(Software_Engineer-3.6yrs).pdf)  
-<!-- - [Academic CV](./academic_cv.pdf) -->
-
 <h2> About Me </h2>
 
 <!-- -Looking for a Ph.D. position in Computer Vision. -->
