@@ -9,8 +9,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:islam.saiful03@outlook.com"><img height="50px" width="100px" alt="Microsoft Outlook" title="Microsoft Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saiful-islam03/"><img height="50px" width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:islam.saiful03@outlook.com"><img height="10px" width="100px" alt="Microsoft Outlook" title="Microsoft Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saiful-islam03/"><img height="10px" width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Saiful-Islam-164"><img width="130px" alt="ResearchGate" title="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0001-8782-0279"><img width="80px" alt="Orcid" title="Orcid" src="https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/Sonnet_Saif"><img width="90px" alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
