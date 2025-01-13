@@ -39,7 +39,6 @@ I graduated in Computer Science & Engineering from [Ahsanullah University of Sci
 - [Academic CV](./Saiful_Islam-Academic_CV.pdf)
 
 
-
 # 💻 Tech Stack:
 
 ### Languages
