@@ -25,17 +25,19 @@
 -Looking for Research opportunities in Computer Vision
 ````
 
-I am currently working as a Software Engineer (R&D) at [Sincos ATL](http://sel-gatl.com/).
+I am currently working as a Software Engineer at [Sincos ATL](https://stsvinc.com/).
 <!-- I am currently working as a Software Engineer (Machine Learning & Web) at [Spectrum E&C Ltd](https://www.spectrum-bd.com/). -->
 
 📫 You can visit my homepage on [sonnetsaif.github.io](https://sonnetsaif.github.io/)
 
-I graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](https://aust.edu/) in 2020. My research interest lies in Artificial Intelligence, particularly in Deep Learning, Computer Vision, and Natural Language Processing.
+I graduated in Computer Science & Engineering from [Ahsanullah University of Science & Technology](https://aust.edu/) in 2020. My research interest lies in Artificial Intelligence, particularly in Deep Learning, Computer Vision, and GAN.
+
 
 ### 📄 My Documents
 
 - [Resume](./Saiful_Islam(Software_Engineer-3.6yrs).pdf)  
 - [Academic CV](./Saiful_Islam-Academic_CV.pdf)
+
 
 
 # 💻 Tech Stack:
